@@ -80,7 +80,7 @@ p,li {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: url(/img/rectangle\ blur3.png);
+  background: url(rectangle\ blur3.png);
 }
 
 #preloader:before {
@@ -280,7 +280,7 @@ p,li {
 .linkedin-button {
   width: 150px; /* Largeur de votre choix */
   height: 40px; /* Hauteur de votre choix */
-  background-image: url(/img/LinkedIn_Logo.svg.png);
+  background-image: url(LinkedIn_Logo.svg.png);
   background-size: cover; /* Ajuste la taille de l'image pour remplir le bouton */
   border: none; /* Supprime la bordure par défaut */
   cursor: pointer; /* Change le curseur au survol */
@@ -303,7 +303,7 @@ p,li {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("/img/fondtest.PNG") top right no-repeat;
+  background: url("fondtest.PNG") top right no-repeat;
   background-size: cover;
   background-attachment: fixed;
   font-family: "Space Mono", Arial, serif;
